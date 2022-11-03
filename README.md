@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @thaji123
-- 👀 I’m interested in many things
-- 🌱 I’m currently learning lots of stuff
+- 👀 I’m interested in IOS/macOS development, Full stack web development
+- 🌱 I’m currently learning Swift,Css,HTML5,
 - 💞️ I’m looking to collaborate on none at the moment
 - 📫 How to reach me : instagram - @jaffna_gurl
 
